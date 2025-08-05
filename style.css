@@ -1,0 +1,15 @@
+.btn {
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+    margin: 5px;
+    border-radius: 50%;
+    text-align: center;
+    display: flex;
+    justify-content: center;    
+}
+.calculater {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
